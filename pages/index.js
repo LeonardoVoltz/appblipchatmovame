@@ -73,7 +73,7 @@ type = "text/javascript" >
     })();
 
 </script>
-    <Footer/>
+    </Footer>
     </div>
   )
 }
